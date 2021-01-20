@@ -3,6 +3,7 @@
 
 # Docs (Until Complete)
 /docs
+/node_modules
 
 # Test Files
 /tests
