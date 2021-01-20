@@ -1,16 +1,10 @@
-# Project Files
-.idea/
-
-# IE & Windows Utilities
-browserconfig.xml
-crossdomain.xml
+**.DS_Store
+/.idea
 
 # Docs (Until Complete)
-doc/
-
-# Use when needed
-rss.xml
-sitemap.xml
+/docs
 
 # Test Files
-tests/
+/tests
+
+.eslintcache
